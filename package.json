@@ -1,10 +1,13 @@
 {
   "name": "@dorin95dp/npm-test",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "npm test project with npm-development",
   "main": "index.js",
   "license": "MIT",
-  "repository": "popadorin/npm-test",
+  "repository": {
+    "type": "git",
+    "url": "www.github.com/popadorin/npm-test.git"
+  },
   "keywords": [
     "dorin",
     "first_npm_package"
@@ -12,10 +15,5 @@
   "scripts": {
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "www.github.com/popadorin/npm-test.git"
-  },
-  "author": "Dorin Popa",
-  "license": "MIT"
+  "author": "Dorin Popa"
 }
