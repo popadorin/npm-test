@@ -1,1 +1,3 @@
-console.log('I am a test js file!!');
+module.exports = function getFunnyName() {
+  return 'Jora';
+};
