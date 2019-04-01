@@ -3,6 +3,12 @@
   "version": "1.0.2",
   "description": "npm test project with npm-development",
   "main": "index.js",
+  "license": "MIT",
+  "repository": "popadorin/npm-test",
+  "keywords": [
+    "dorin",
+    "first_npm_package"
+  ],
   "scripts": {
     "start": "node index.js"
   },
