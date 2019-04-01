@@ -1,6 +1,6 @@
 {
   "name": "@dorin95dp/npm-test",
-  "version": "2.0.0-0",
+  "version": "2.1.0-0",
   "description": "npm test project with npm-development",
   "main": "index.js",
   "license": "MIT",
